@@ -1,0 +1,2 @@
+#! /bin/bash
+cd /CryptoTool/LTC; node index.js
